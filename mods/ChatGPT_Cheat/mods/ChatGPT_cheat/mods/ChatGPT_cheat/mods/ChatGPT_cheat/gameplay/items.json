@@ -1,0 +1,7 @@
+{
+  "start_money": 99999,
+  "weight_limit": 999,
+  "health": 500,
+  "armor_durability": "infinite",
+  "weapon_durability": "infinite"
+}
